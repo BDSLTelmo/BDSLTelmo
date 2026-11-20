@@ -1,6 +1,6 @@
 ## Yo
 
-<h2 align="center"><img src="https://wiki.supercombo.gg/images/6/6a/%28kensrk%29.gif" width="30px"></h2>
+<h2 align="center"><img src="https://wiki.supercombo.gg/images/6/6a/%28kensrk%29.gif" width="900px"></h2>
 
 <!--
 **BDSLTelmo/BDSLTelmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
