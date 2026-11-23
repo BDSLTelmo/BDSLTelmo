@@ -41,7 +41,6 @@ I'm a student at La Manu's campus, in the fields of <strong>Graphic Design</stro
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   </kbd>
   <br>
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
 </div>
 
 <div align= "center">
